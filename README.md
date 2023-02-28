@@ -13,3 +13,4 @@ Kaggle House Prediction Competition
 
 ## Screenshots
 ![screenshot](2205_w015_n001_854a_p30_854.jpg)
+<img src="Img/2205_w015_n001_854a_p30_854.jpg" alt="Alt text" title="House Prediction Notebook">
