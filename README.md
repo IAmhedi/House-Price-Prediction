@@ -11,6 +11,9 @@ Kaggle House Prediction Competition
 - LinearRegression
 - GradientBoostingRegressor
 
+
+## Setup
+This project is run in the kaggle environment
+
 ## Screenshots
-![screenshot](2205_w015_n001_854a_p30_854.jpg)
 <img src="Img/2205_w015_n001_854a_p30_854.jpg" alt="Alt text" title="House Prediction Notebook">
