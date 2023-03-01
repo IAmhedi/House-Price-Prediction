@@ -10,6 +10,8 @@ Kaggle House Prediction Competition
 - Python 
 - LinearRegression
 - GradientBoostingRegressor
+- CatBoost Regressor
+- RandomForestRegressor
 
 
 ## Setup
