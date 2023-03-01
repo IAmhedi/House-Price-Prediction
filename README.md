@@ -7,12 +7,11 @@ Kaggle House Prediction Competition
 - The aim of this project is to predict the sales price for each house.
 
 ## Technologies Used
-- Python programming language / sklearn
+- Python programming language 🐍 / sklearn
 - LinearRegression
 - GradientBoostingRegressor
 - CatBoost Regressor
 - RandomForestRegressor
-
 
 ## Setup
 This project is run in the kaggle environment
